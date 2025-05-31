@@ -6,6 +6,12 @@ step 1: Extract build from path ~/Photon-fusion-2-test/Builds.zip </br>
 step 2: Run Photon-fusion-2-test.exe </br>
 step 3: Use unity editor (Asset/Scene/SampleScene) to run another client </br>
 
+Hotkey:
++ AWSD/Arrow to move </br>
++ E to change color </br>
++ Hold Shift to speed up </br>
++ Space to jump </br>
+
 This project not use another tool or libraries, only use default unity and photon fusion 2 SDK.
 
 Thank you for spending time to test.
